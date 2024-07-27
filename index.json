@@ -6,8 +6,8 @@
     "favicon": "/favicon.svg"
   },
   "background": {
-    "firstColor": "#454281",
-    "secondColor": "#B38AC2"
+    "firstColor": "#03a4cd",
+    "secondColor": "#91eaff"
   },
   "header": {
     "image": "/profile.webp",
