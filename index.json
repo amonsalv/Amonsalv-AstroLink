@@ -1,0 +1,95 @@
+{
+  "html": {
+    "lang": "en",
+    "title": "Ana Monsalve",
+    "description": "Follow me on all my socials",
+    "favicon": "/favicon.svg"
+  },
+  "background": {
+    "firstColor": "#454281",
+    "secondColor": "#B38AC2"
+  },
+  "header": {
+    "image": "/profile.webp",
+    "alt": "The owner of this website.",
+    "title": "Ana Monsalve",
+    "description": "Full Stack Developer",
+    "textColor": "white"
+  },
+  "socials": [
+    {
+      "network": "GitHub",
+      "username": "amonsalv",
+      "url": "https://github.com/amonsalv"
+    },
+    {
+      "network": "LinkedIn",
+      "username": "anamonsalve",
+      "url": "https://www.linkedin.com/in/anamonsalve/"
+    },
+    {
+      "network": "Instagram",
+      "username": "amonsalv_",
+      "url": "https://www.instagram.com/amonsalv_/ "
+    },
+    {
+      "network": "X",
+      "username": "_amonsalv",
+      "url":"https://x.com/_amonsalv"
+    },
+    {
+      "network": "Spotify",
+      "username": "Ana Monsalve",
+      "url":"https://open.spotify.com/user/12173669589"
+    }
+  ],
+  "buttons": [
+    {
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/anamonsalve/ /?locale=en_US",
+      "title": "Let's connect on LinkedIn",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Instagram",
+      "url": "https://www.instagram.com/amonsalv_/ ",
+      "title": "Follow me on Instagram",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Mail",
+      "url": "mailto: amonsalv7@gmail.com",
+      "title": "Contact me anytime",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Link",
+      "url": "",
+      "title": "See more templates",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    }
+  ],
+  "featured": [
+    {
+      "network": "GitHub",
+      "url": "https://github.com/ /AstroLinkHub",
+      "title": "Use this template and star it (:",
+      "textColor": "#FFF",
+      "backgroundImage": "",
+      "backgroundColor": null,
+      "borderRadius": ".75rem"
+    }
+  ],
+  "footer": {
+    "copyright": "Made with 💖 by amonsalv ",
+    "url": "https:// .com"
+  }
+}
