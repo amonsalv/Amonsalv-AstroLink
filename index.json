@@ -67,14 +67,6 @@
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
-    },
-    {
-      "network": "Link",
-      "url": "",
-      "title": "See more templates",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
-      "borderRadius": ".75rem"
     }
   ],
   "featured": [
