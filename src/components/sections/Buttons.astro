@@ -54,8 +54,8 @@ const SOCIAL_ICONS: Record<string, any> = {
                 color:${textColor};
                 border-radius:${borderRadius};`}
             >
-              <Icon />
-              {title}
+                <Icon class="button-icon"/>
+                <span class="button-text">{title}</span>
             </a>
           );
         }
@@ -72,7 +72,7 @@ const SOCIAL_ICONS: Record<string, any> = {
   }
 
   .button {
-    display: inline-flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     gap: 1rem;
@@ -83,10 +83,21 @@ const SOCIAL_ICONS: Record<string, any> = {
     -webkit-user-select: none;
     touch-action: manipulation;
     will-change: transform;
+    position: relative;
+  }
+
+  .button-icon {
+    position: absolute;
+    left: 16px;
+  }
+
+  .button-text {
+    flex: 1;
+    text-align: left;
   }
 
   .button:hover {
-    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    box-shadow: rgba(0, 0, 0, 0.479) 0 8px 15px;
     transform: translateY(-2px);
   }
 
