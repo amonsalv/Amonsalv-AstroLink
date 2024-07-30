@@ -4,16 +4,15 @@ import { html, background } from "index.json";
 const { lang, title, description, favicon } = html;
 const { firstColor, secondColor } = background;
 ---
-
 <!doctype html>
-<html lang={`${lang}`}>
+<html lang={lang}>
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content={`${description}`} />
+    <meta name="description" content={description} />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href={`${favicon}`} />
+    <link rel="icon" type="image/svg+xml" href={favicon} />
     <meta name="generator" content={Astro.generator} />
-    <meta name="theme-color" content={`${firstColor}`} />
+    <meta name="theme-color" content={firstColor} />
     <title>{title}</title>
   </head>
   <body>
