@@ -48,25 +48,28 @@
       "network": "LinkedIn",
       "url": "https://www.linkedin.com/in/anamonsalve/ /?locale=en_US",
       "title": "Let's connect on LinkedIn",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
-      "borderRadius": ".75rem"
+      "textColor": "#222222c5",
+      "backgroundColor": "#FFF",
+      "borderRadius": "1.80rem",
+      "border": "2px solid #000"
     },
     {
       "network": "Instagram",
       "url": "https://www.instagram.com/amonsalv_/ ",
       "title": "Follow me on Instagram",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
-      "borderRadius": ".75rem"
+      "textColor": "#222222c5",
+      "backgroundColor": "#FFF",
+      "borderRadius": "1.80rem",
+      "border": "2px solid #000"
     },
     {
       "network": "Mail",
       "url": "mailto: amonsalv7@gmail.com",
       "title": "Contact me anytime",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
-      "borderRadius": ".75rem"
+      "textColor": "#222222c5",
+      "backgroundColor": "#FFF",
+      "borderRadius": "1.80rem",
+      "border": "2px solid #000"
     }
   ],
   "featured": [
@@ -77,7 +80,7 @@
       "textColor": "#FFF",
       "backgroundImage": "",
       "backgroundColor": null,
-      "borderRadius": ".75rem"
+      "borderRadius": "1.80rem"
     }
   ],
   "footer": {
