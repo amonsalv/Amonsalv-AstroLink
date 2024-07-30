@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.8.1",
+    "@iconify-json/mdi": "^1.1.67",
+    "@mdi/js": "^7.4.47",
     "astro": "^4.11.5",
     "astro-icon": "^1.1.0",
     "typescript": "^5.5.3"
