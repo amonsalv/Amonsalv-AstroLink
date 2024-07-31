@@ -10,7 +10,7 @@
     "secondColor": "#91eaff"
   },
   "header": {
-    "image": "/public/profile.jpeg",
+    "image": "/public/image/profile.jpeg",
     "alt": "The owner of this website.",
     "title": "Ana Monsalve",
     "description": "Full Stack Developer",
