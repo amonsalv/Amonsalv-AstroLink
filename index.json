@@ -23,16 +23,6 @@
       "url": "https://github.com/amonsalv"
     },
     {
-      "network": "LinkedIn",
-      "username": "anamonsalve",
-      "url": "https://www.linkedin.com/in/anamonsalve/"
-    },
-    {
-      "network": "Instagram",
-      "username": "amonsalv_",
-      "url": "https://www.instagram.com/amonsalv_/ "
-    },
-    {
       "network": "X",
       "username": "_amonsalv",
       "url":"https://x.com/_amonsalv"
@@ -41,6 +31,11 @@
       "network": "Spotify",
       "username": "Ana Monsalve",
       "url":"https://open.spotify.com/user/12173669589"
+    },
+    {
+      "network": "Telegram",
+      "username": "@Amonsalv",
+      "url":"https://t.me/Amonsalv"
     }
   ],
   "buttons": [
@@ -48,6 +43,15 @@
       "network": "LinkedIn",
       "url": "https://www.linkedin.com/in/anamonsalve/ /?locale=en_US",
       "title": "Let's connect on LinkedIn",
+      "textColor": "#222222c5",
+      "backgroundColor": "#FFF",
+      "borderRadius": "1.80rem",
+      "border": "2px solid #000"
+    },
+    {
+      "network": "GitHub",
+      "url": "https://github.com/amonsalv",
+      "title": "Follow us on GitHub",
       "textColor": "#222222c5",
       "backgroundColor": "#FFF",
       "borderRadius": "1.80rem",
