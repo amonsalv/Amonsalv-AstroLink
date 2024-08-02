@@ -21,7 +21,7 @@ Open source links page, customizable via JSON. Made with Astro 4.
 
 </div>
 
-![AstroLinkHub Screenshot](/public/screenshot.webp)
+![AstroLinkHub Screenshot](/public/images/web.jpg)
 
 
 ## Table of Contents
@@ -50,20 +50,12 @@ Open source links page, customizable via JSON. Made with Astro 4.
 
 ## About The Project
 
-For a while I was thinking about how popular link pages have become, both for companies and individuals. I've never liked the "free" solutions that many companies provide where they self-promote on every page you create.
-
-That's exactly why I created AstroLinkHub! With this template you will be able to:
-- Create your very own links page for FREE.
-- Use the colors you want and give yourself all the credits for it.
-- And most importantly, update it very easily using JSON. 
+AstroLinkHub allows you to create a customizable links page for free, using your preferred colors and credits. Easily update it using JSON.
 
 <p align="right"><a href="#readme-top">Back to top ⬆️</a></p>
 
 
 ## Getting Started
-
-> [!IMPORTANT]
-> I'm glad to announce that this project is available on [Astro Themes!](https://astro.build/themes/details/astrolinkhub/) 🚀
 
 ### Prerequisites
 
@@ -80,7 +72,7 @@ Personally I prefer using `pnpm` instead `npm` and to install it you can use:
 
 1. Clone this repo to your computer:
    ```sh
-   git clone git@github.com:MarcosKlender/AstroLinkHub.git
+   git clone https://github.com/amonsalv/AstroLink.git
    ```
 2. Install Astro dependencies:
    ```sh
@@ -95,7 +87,7 @@ Personally I prefer using `pnpm` instead `npm` and to install it you can use:
 <p align="right"><a href="#readme-top">Back to top ⬆️</a></p>
 
 
-## JSON
+## JSON Configuration
 
 The best part of AstroLinkHub is that you can modify every aspect of the website very easily, you just have to edit the `index.json` file. This JSON contains the following sections:
 
@@ -109,26 +101,7 @@ The best part of AstroLinkHub is that you can modify every aspect of the website
 
 ### Icons
 
-Just edit the key `network` with any of the following values (case-sensitive):
-
-- Discord
-- Facebook
-- GitHub
-- Instagram
-- Link
-- LinkedIn
-- Mail
-- Map
-- Medium
-- Spotify
-- TikTok
-- Twitch
-- WhatsApp
-- X
-- YouTube
-
-> [!NOTE]
-> If you need more open-source icons, visit: [Tabler Icons](https://tabler.io/icons)
+Icons are now sourced from the Astro Icons library. You can find the available icons and their usage instructions in the [Astro Icons documentation](https://astro.build/icons).
 
 <p align="right"><a href="#readme-top">Back to top ⬆️</a></p>
 
