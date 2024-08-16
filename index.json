@@ -49,15 +49,6 @@
       "border": "2px solid #000"
     },
     {
-      "network": "GitHub",
-      "url": "https://github.com/amonsalv",
-      "title": "Follow us on GitHub",
-      "textColor": "#222222c5",
-      "backgroundColor": "#FFF",
-      "borderRadius": "1.80rem",
-      "border": "2px solid #000"
-    },
-    {
       "network": "Instagram",
       "url": "https://www.instagram.com/amonsalv_/ ",
       "title": "Follow me on Instagram",
@@ -70,6 +61,15 @@
       "network": "Mail",
       "url": "mailto: amonsalv7@gmail.com",
       "title": "Contact me anytime",
+      "textColor": "#222222c5",
+      "backgroundColor": "#FFF",
+      "borderRadius": "1.80rem",
+      "border": "2px solid #000"
+    }, 
+    {
+      "network": "Link",
+      "url": "https://portfolio-amonsalv.netlify.app/",
+      "title": "Check out my portfolio",
       "textColor": "#222222c5",
       "backgroundColor": "#FFF",
       "borderRadius": "1.80rem",
@@ -89,6 +89,6 @@
   ],
   "footer": {
     "copyright": "Made with 💖 by amonsalv ",
-    "url": "https:// .com"
+    "url": "https://portfolio-amonsalv.netlify.app/"
   }
 }
