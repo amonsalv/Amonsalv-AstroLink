@@ -10,7 +10,7 @@
     "secondColor": "#91eaff"
   },
   "header": {
-    "image": "/images/profile.jpeg", 
+    "image": "/images/profile.jpg", 
     "alt": "The owner of this website.",
     "title": "Ana Monsalve",
     "description": "Full Stack Developer",
@@ -41,7 +41,7 @@
   "buttons": [
     {
       "network": "LinkedIn",
-      "url": "https://www.linkedin.com/in/anamonsalve/ /?locale=en_US",
+      "url": "https://www.linkedin.com/in/amonsalv/",
       "title": "Let's connect on LinkedIn",
       "textColor": "#222222c5",
       "backgroundColor": "#FFF",
@@ -50,7 +50,7 @@
     },
     {
       "network": "Instagram",
-      "url": "https://www.instagram.com/amonsalv_/ ",
+      "url": "https://www.instagram.com/amonsalv.dev/ ",
       "title": "Follow me on Instagram",
       "textColor": "#222222c5",
       "backgroundColor": "#FFF",

@@ -1,0 +1,38 @@
+[33m5e0b1b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m feat: actualizar datos de perfil y redes sociales en index.json
+[33m3f488dc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m refactor: Update social icons color and border in Socials.astro
+[33m72ef309[m refactor: Update background image URL in Layout.astro
+[33m05ef374[m Link for portfolio
+[33mc1ea206[m update README
+[33mff10e05[m Update README.md to reflect usage of Astro Icons library
+[33me0fcaeb[m ```text refactor: Update build script in package.json
+[33me4e7774[m refactor: Update profile image file path and extension in index.json
+[33m4b0d965[m refactor: Update profile image file path and extension in index.json
+[33m0bdf043[m refactor: Update profile image file path and extension in index.json
+[33mb1ad9ea[m refactor: Update profile image file path in index.json
+[33m96173e8[m refactor: Update profile image file extension to .jpeg
+[33m1bb9154[m refactor: Update social icons in Buttons.astro component
+[33maf37515[m refactor: Update social icons in Buttons and Socials components
+[33m8bb00e1[m refactor: Update social icons in Buttons and Socials components
+[33mb83b8e1[m refactor: Update social icons in Buttons.astro and Socials.astro
+[33mdf989ca[m refactor: Update social icons in Buttons and Socials components
+[33m8eeefc2[m refactor: Update social icons in Buttons and Socials components
+[33m3bba0e7[m refactor: Update social icons in Buttons.astro and Socials.astro
+[33meeae91a[m refactor: Update social icons in Buttons.astro and Socials.astro
+[33m296f7ff[m refactor: Update social icons in Featured and Buttons sections
+[33m8e278a2[m refactor: Add astro-icon integration to astro.config.mjs
+[33m1a5a1ca[m refactor: Increase width of Buttons section to 90%
+[33m645c960[m refactor: Update Buttons component styling for better alignment and responsiveness
+[33m7a048ed[m refactor: Update button styling and add border to social icons
+[33m061fd40[m refactor: Update Google Tag Manager integration in Header.astro
+[33m0a52489[m refactor: Add Google Tag Manager and gtag.js to Header.astro
+[33m5fdeacf[m refactor: Add Google Tag Manager to Header.astro
+[33m982be4e[m refactor: Add Bereal and Telegram icons to the icons directory
+[33mf78b514[m refactor: Remove unused code and update button styling in index.json
+[33m82e2648[m Merge branch 'main' of https://github.com/amonsalv/AstroLinkHub
+[33m2a3bd58[m Update header image path in index.json
+[33m1d2bfc9[m refactor: Update font imports in Layout.astro
+[33m674ea96[m refactor: Update Buttons component to improve accessibility and styling
+[33m33767a8[m Update home page layout in index.astro
+[33m9c5f73b[m feat: Add title and description to home page in index.astro
+[33m408d834[m chore: Update background colors in index.json file
+[33m981cc8c[m primer commit- plantilla AstroLinkHub - con cambios
